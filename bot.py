@@ -19,8 +19,8 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS users
 conn.commit()
 
 # --- Config ---
-TOKEN = "আপনার_বট_টোকেন"
-ADMIN_ID = 123456789 # আপনার টেলিগ্রাম আইডি
+TOKEN = "8535441292:AAGbaOFGoMdXbh36w1IPwFBMvsymI__iOi4"
+ADMIN_ID = 8474225355 # আপনার টেলিগ্রাম আইডি
 
 # Keyboards
 main_kb = [['IG Work Start', 'Rules & Price Update'], ['Withdraw', 'Refresh']]
