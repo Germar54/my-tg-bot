@@ -17,8 +17,8 @@ cursor = conn.cursor()
 cursor.execute('''CREATE TABLE IF NOT EXISTS users (id INTEGER PRIMARY KEY, balance REAL DEFAULT 0)''')
 conn.commit()
 
-TOKEN = "আপনার_বট_টোকেন"
-ADMIN_ID = 123456789 # আপনার আইডি
+TOKEN = "8535441292:AAGbaOFGoMdXbh36w1IPwFBMvsymI__iOi4"
+ADMIN_ID = 8474225355# আপনার আইডি
 
 # Keyboards
 main_kb = [['IG Work Start', 'Rules & Price Update'], ['Withdraw', 'Refresh']]
