@@ -19,8 +19,8 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS users
 conn.commit()
 
 # --- Configuration ---
-TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_ID = 123456789  # আপনার টেলিগ্রাম আইডি
+TOKEN = "8535441292:AAGbaOFGoMdXbh36w1IPwFBMvsymI__iOi4"
+ADMIN_ID = 8474225355 # আপনার টেলিগ্রাম আইডি
 
 # States
 SINGLE_ACC, WITHDRAW_ADDR, WITHDRAW_AMT = range(3)
